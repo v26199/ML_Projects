@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 1. Clone the Repository: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
+https://github.com/v26199/ML_Projects/tree/main/Heart%20Disease%20Prediction
    ```
 
 2. Install Dependencies: Install the required Python libraries listed in the `requirements.txt` file using pip:
