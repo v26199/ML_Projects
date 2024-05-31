@@ -7,7 +7,6 @@ This project focuses on detecting fraudulent credit card transactions using mach
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Requirements](#requirements)
-- [Project Structure](#project-structure)
 - [Data Preprocessing](#data-preprocessing)
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
