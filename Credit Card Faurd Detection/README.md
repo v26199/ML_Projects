@@ -59,7 +59,7 @@ Evaluate the performance of the models using the following metrics:
   - Precision, Recall, F1-Score: 100%
 
 ### The Random Forest model shows slightly better performance but tends to overfit on the training data. 
-The Logistic Regression model provides a balance between simplicity and performance.
+### The Logistic Regression model provides a balance between simplicity and performance.
 
 ## Conclusion
 Both models perform well in detecting fraudulent transactions. 
