@@ -100,7 +100,7 @@ My passion for data and experimentation drives me to explore innovative solution
 
 My journey through machine learning has been a rewarding exploration of data-driven problem-solving. With a focus on building robust and effective models, I've honed my skills in various areas, including:
 
-* **Model Development: Proficiency in a wide range of machine learning algorithms, from regression and classification to neural networks.
-* **Data Expertise: Expertise in data preprocessing, feature engineering, and handling imbalanced datasets to ensure model accuracy and reliability.
-* **Technical Proficiency: Strong command of Python, TensorFlow, PyTorch, scikit-learn, and other relevant tools.
-* **Problem-Solving: Ability to analyze complex problems, identify key challenges, and develop innovative solutions.
+* ** Model Development: Proficiency in a wide range of machine learning algorithms, from regression and classification to neural networks.
+* ** Data Expertise: Expertise in data preprocessing, feature engineering, and handling imbalanced datasets to ensure model accuracy and reliability.
+* ** Technical Proficiency: Strong command of Python, TensorFlow, PyTorch, scikit-learn, and other relevant tools.
+* ** Problem-Solving: Ability to analyze complex problems, identify key challenges, and develop innovative solutions.
