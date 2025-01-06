@@ -95,7 +95,7 @@ My passion for data and experimentation drives me to explore innovative solution
 
 * **Technologies Used:** Python, scikit-learn, Pandas.
 
-### **12. XGB vs LightGBM vs CatBoost**
+#### **12. XGB vs LightGBM vs CatBoost**
 
 
 ### Summary
